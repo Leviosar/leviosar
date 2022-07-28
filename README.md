@@ -2,8 +2,7 @@
 
 ![cover](./background.png)
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on image processing projects 
+- 👯 I'm interested in computer theory, compilers and image processing
 - 📫 How to reach me: [@jaovem](https://twitter.com/jaovem), maia.tostring@gmail.com
 - 😄 Pronouns: he/him
 
